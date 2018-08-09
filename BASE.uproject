@@ -59,6 +59,10 @@
 		{
 			"Name": "UObjectPlugin",
 			"Enabled": false
+		},
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
 		}
 	]
 }
